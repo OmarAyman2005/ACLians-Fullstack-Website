@@ -28,7 +28,7 @@ ACLians is a collaborative full-stack MERN web application developed as part of 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ACLians-Fullstack-Website.git
+git clone https://github.com/OmarAyman2005/ACLians-Fullstack-Website.git
 
 # Install client dependencies
 cd client
